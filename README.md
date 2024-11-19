@@ -18,5 +18,5 @@ Estoy orgulloso de animarme a esto y de haberlo completado al menos ( como se pu
 
 
 > [!IMPORTANT]
-> Soy extremadamente Junior ( mas Trainee que otra Junior ), aún soy nuevo en esto y no tengo experiencia
+> Soy extremadamente Junior ( mas Trainee que Junior ), aún soy nuevo en esto y no tengo experiencia
 
