@@ -8,9 +8,9 @@ Soy medio malo para los README pero al menos quería intentar hacer el commit y 
 Estoy orgulloso de animarme a esto y de haberlo completado al menos ( como se pueda )
 
 
-[Deploy de la app](https://fakestoreapi.com/)
+[Deploy de la app](https://wallbit-challenge-guido.vercel.app/)
 
-[Github](https://fakestoreapi.com/)
+[Github](https://github.com/GuidoRann/wallbit-challenge-guido.git)
 
 
 > [!NOTE]
